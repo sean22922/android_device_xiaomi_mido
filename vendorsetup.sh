@@ -1,1 +1,1 @@
-add_lunch_combo omni_mido-userdebug
+add_lunch_combo dot_mido-userdebug
